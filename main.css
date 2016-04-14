@@ -42,3 +42,11 @@ hr {
 .italic {
     font-style: italic;
 }
+
+.verse {
+    text-align: center;
+    border: 1px solid #FFF;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgba(63, 121, 191, 0.07);
+}
