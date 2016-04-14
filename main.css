@@ -38,3 +38,7 @@ hr {
 .in-line {
     margin-top: 20px;
 }
+
+.italic {
+    font-style: italic;
+}
